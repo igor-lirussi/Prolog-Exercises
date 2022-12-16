@@ -1,6 +1,6 @@
 # Prolog-Exercises
 
-*   **[Es1](es1.pl)** - Search in lists.
+*   **[Es1](es1.pl)** - Queries on list.
 
 ## Run
 Any Prolog system, I used [TuProlog](https://apice.unibo.it/xwiki/bin/view/Tuprolog/)
