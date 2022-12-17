@@ -1,6 +1,7 @@
 # Prolog-Exercises
 
 *   **[Es1](es1.pl)** - Queries on list.
+*   **[Es2](es2.pl)** - Extracting information from a list
 
 ## Run
 Any Prolog system, I used [TuProlog](https://apice.unibo.it/xwiki/bin/view/Tuprolog/)
